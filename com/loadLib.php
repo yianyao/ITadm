@@ -4,7 +4,8 @@
  * User: yianyao
  * Date: 16-3-15
  * Time: 下午8:19
- * @desc 自动加载类
+ *
+ * 自动加载类
  **/
 use com\itpdc\service\LoadException;
 //require ("itpdc/service/LoadException.php");
